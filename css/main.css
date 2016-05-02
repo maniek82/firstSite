@@ -2,7 +2,7 @@ body {
   background-color: #11b0c6; }
 
 p {
-  color: yellow; }
+  color: white; }
 
 .btn {
   background-color: #cc85e0; }
@@ -12,5 +12,11 @@ h1, h3 {
 
 .list-group-item {
   background-color: #de1850; }
+
+.par {
+  color: black; }
+
+.limo {
+  color: white; }
 
 /*# sourceMappingURL=main.css.map */
