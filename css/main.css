@@ -1,5 +1,5 @@
 body {
-  background-color: #348fac; }
+  background-color: #11b0c6; }
 
 p {
   color: yellow; }
@@ -7,7 +7,10 @@ p {
 .btn {
   background-color: #cc85e0; }
 
-.color {
+h1, h3 {
   color: white; }
+
+.list-group-item {
+  background-color: #de1850; }
 
 /*# sourceMappingURL=main.css.map */

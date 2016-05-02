@@ -1,6 +1,6 @@
 
 body{
-background-color: darken(lightblue, 35%);
+background-color: darken(#1AD2EB, 9%);
 
 }
 
@@ -10,6 +10,9 @@ color:yellow;
 .btn {
 background-color: lighten(#a3c,20%);
 }
-.color {
+h1, h3 {
 color:white;
+}
+.list-group-item {
+background-color:darken(#E8275E,5%);
 }
